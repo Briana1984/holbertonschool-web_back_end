@@ -66,4 +66,4 @@ MongoDB is a popular document-oriented NoSQL database. To get started with Mongo
 ### **Authors**
 --- 
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Briana1984/holbertonschool-higher_level_programming) Briana Rivera Salas - <a href="https://github.com/Briana1984" target="_blank"> @Briana1984</a> :genie_woman:![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Briana1984&show_icons=true)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=Briana1984holbertonschool-higher_level_programming) Briana Rivera Salas - <a href="https://github.com/Briana1984" target="_blank"> @Briana1984</a> :genie_woman:![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Briana1984&show_icons=true)
