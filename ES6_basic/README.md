@@ -52,7 +52,3 @@ This README.md serves as a starting point for understanding the fundamental conc
 
 
 
-### **Authors**
---- 
-
-![GitHub Contributors Image](https://contrib.rocks/image?repo=MichiCaballero07/holbertonschool-higher_level_programming) Michel Caballero Granado - <a href="https://github.com/MichiCaballero07" target="_blank"> @MichiCaballero07</a> :genie_woman:![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MichiCaballero07&show_icons=true)
